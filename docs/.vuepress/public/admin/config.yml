@@ -48,22 +48,22 @@ collections:
         format: "YYYY-MM-DD"
         time_format: false
         required: true
-      - {
-          label: "Grammar Type",
-          name: "grammar_type",
-          widget: "select",
-          options:
-            [
-              "Parts of Speech",
-              "Sentence Structure",
-              "Tenses",
-              "Subject-Verb Agreement",
-              "Modal Verbs",
-              "Active vs Passive Voice",
-              "Direct and Indirect Speech",
-              "Other",
-            ],
-        }
+      # - {
+      #     label: "Grammar Type",
+      #     name: "grammar_type",
+      #     widget: "select",
+      #     options:
+      #       [
+      #         "Parts of Speech",
+      #         "Sentence Structure",
+      #         "Tenses",
+      #         "Subject-Verb Agreement",
+      #         "Modal Verbs",
+      #         "Active vs Passive Voice",
+      #         "Direct and Indirect Speech",
+      #         "Other",
+      #       ],
+      #   }
       - {
           label: "Meme Image",
           name: "meme_image",
