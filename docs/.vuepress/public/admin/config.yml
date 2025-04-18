@@ -19,9 +19,9 @@ collections:
     nested:
       depth: 2
     create: true
-    slug: "{{date}}/index"
+    slug: "{{slug}}/index"
     summary: "{{dirname}} . Last updated at {{commit_date}}"
-    preview_path: grammar/{{date}}
+    preview_path: grammar/{{slug}}
     fields:
       - {
           label: "Last Updated",
