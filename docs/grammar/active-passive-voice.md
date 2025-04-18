@@ -1,3 +1,11 @@
+---
+contributors: true
+externalLinkIcon: true
+date: 2025-04-18
+grammar_type: Parts of Speech
+meme_image: /media/imagetostl.com_art_gallery.glb.webp
+meme_type: social media
+---
 # 🔄 Active vs Passive Voice
 
 Understanding the difference between **active** and **passive** voice helps improve clarity and focus in writing.
