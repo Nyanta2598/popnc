@@ -10,7 +10,7 @@ Welcome to your comprehensive grammar reference! Use the links below to jump to 
 4. [🤝 Subject-Verb Agreement](./subject-verb-agreement.md)
 5. [🛠️ Modal Verbs](./modal-verbs.md)
 6. [🔄 Active vs Passive Voice](./active-passive-voice.md)
-7. [🗣️ Direct and Indirect Speech](./direct-indirect-speech.md)
+7. [🗣️ Direct and Indirect Speech](./direct-indirect-speech/index.md)
 
 ---
 

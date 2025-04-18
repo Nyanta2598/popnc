@@ -5,15 +5,11 @@ import { getDirname, path } from "@vuepress/utils";
 import { glob } from "glob";
 
 let grammarList = glob
-  .sync("docs/grammar/**/*.md")
+.sync("docs/grammar/**/index.md", { ignore: ["docs/grammar/index.md"] })
   .map((f) => {
-    const cleanPath = f.replace(/\/index\.md$/, "/");
-    return {
-      text: path.basename(cleanPath).replace(/^\d+-/, "").replace(".md", ""),
-      link: cleanPath,
-    };
-  })
-  .sort((a, b) => a.link.localeCompare(b.link));
+    const folder = path.basename(path.dirname(f));
+    return `/grammar/${folder}/`;
+  });
 
 
 import { description } from "../../package.json";
@@ -66,14 +62,14 @@ export default defineUserConfig({
     ],
     // notice there's a difference between /songs and /songs/
     // We have the /songs to enable this sidebar for /songs and /songs/ paths
-    // sidebar: {
-    //   "/grammar": [
-    //     {
-    //       text: "Grammar",
-    //       children: grammarList,
-    //     },
-    //   ],
-    // },
+    sidebar: {
+      "/grammar": [
+        {
+          text: "Grammar",
+          children: grammarList,
+        },
+      ],
+    },
   }),
 
   // Replace footer

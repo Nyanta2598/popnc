@@ -20,7 +20,7 @@ collections:
       depth: 2
     create: true
     slug: "{{date}}/index"
-    summary: "{{filename}}. Last updated at {{commit_date}}"
+    summary: "{{dirname}} . Last updated at {{commit_date}}"
     preview_path: grammar/{{date}}
     fields:
       - {
