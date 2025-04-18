@@ -64,19 +64,19 @@ collections:
       #         "Other",
       #       ],
       #   }
-      - {
-          label: "Meme Image",
-          name: "meme_image",
-          widget: "image",
-          required: false,
-        }
-      - {
-          label: "Meme Type",
-          name: "meme_type",
-          widget: "select",
-          options: ["social media", "mass media", "other media"],
-          required: false,
-        }
+      # - {
+      #     label: "Meme Image",
+      #     name: "meme_image",
+      #     widget: "image",
+      #     required: false,
+      #   }
+      # - {
+      #     label: "Meme Type",
+      #     name: "meme_type",
+      #     widget: "select",
+      #     options: ["social media", "mass media", "other media"],
+      #     required: false,
+      #   }
       - {
           label: "Body",
           name: "body",
