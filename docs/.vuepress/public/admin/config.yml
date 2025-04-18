@@ -23,6 +23,7 @@ collections:
     summary: "{{dirname}} . Last updated at {{commit_date}}"
     preview_path: grammar/{{slug}}
     fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
       - {
           label: "Last Updated",
           name: "lastUpdated",
