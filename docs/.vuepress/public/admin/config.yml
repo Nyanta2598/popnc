@@ -1,38 +1,84 @@
 # https://decapcms.org/docs/backends-overview/
 backend:
-  name: git-gateway # adds users without giving them direct write access to your GitHub or GitLab repository.
-  branch: main # default: master
-  cms_label_prefix: decap-cms # default: netlify-cms/
-  # Options:
-  # name: github/gitlab/bitbucket # all users added must have push access to your content repository.
-  # repo: owner-name/repo-name # Path to your GitHub repository
+  name: git-gateway
+  branch: main
+  cms_label_prefix: decap-cms
 
-# https://decapcms.org/docs/configuration-options/
 publish_mode: editorial_workflow
-display_url: https://vuedn.netlify.app/
-media_folder: "docs/.vuepress/public/media" # Media files will be stored in the repo under docs/.vuepress/public/media
-public_folder: "/media" # The src attribute for uploaded media will begin with /media
+display_url: https://popnc-ph.netlify.app/
+media_folder: "docs/.vuepress/public/media"
+public_folder: "/media"
 editor:
-  preview: false # disabled markdown preview in CMS
+  preview: false
+
 collections:
-  - name: "songs" # Used in routes, e.g., /admin/collections/songs
-    label: "Songs" # Used in the UI
-    label_singular: Song
-    folder: "docs/songs" # The path to the folder where the documents are stored
-    nested: # adding a nested object will show the collection folder structure
-      depth: 2 # max depth to show in the collection tree
-    create: true # Allow users to create new documents in this collection
-    slug: "{{date}}/index" # Filename template # Outputs sun-apr-02-2023-01-13-17-gmt-0300-east-africa-time (not ideal but is dynamic to date - only at creation not at editing)
+  - name: "grammar"
+    label: "Grammar Topics"
+    label_singular: "Grammar Topic"
+    folder: "docs/grammar"
+    nested:
+      depth: 2
+    create: true
+    slug: "{{date}}/index"
     summary: "{{dirname}} . Last updated at {{commit_date}}"
-    preview_path: songs/{{date}}
-    fields: # The fields for each document, usually in front matter
-      - {label: "lastUpdated", name: "lastUpdated", widget: "hidden", default: true}
-      - {label: "contributors", hint: "Show contributors at the footer", name: "contributors", widget: "boolean", default: true}
-      - {label: "Show icon for external links", name: "externalLinkIcon", widget: "boolean", default: false}
+    preview_path: grammar/{{date}}
+    fields:
+      - {
+          label: "Last Updated",
+          name: "lastUpdated",
+          widget: "hidden",
+          default: true
+        }
+      - {
+          label: "Show Contributors",
+          hint: "Show contributors at the footer",
+          name: "contributors",
+          widget: "boolean",
+          default: true
+        }
+      - {
+          label: "Show Icon for External Links",
+          name: "externalLinkIcon",
+          widget: "boolean",
+          default: false
+        }
       - label: "Entry Date"
         name: "date"
         widget: "datetime"
-        format: 'YYYY-MM-DD'
+        format: "YYYY-MM-DD"
         time_format: false
         required: true
-      - {label: "Body", name: "body", widget: "markdown", default: "# Song title (Composer/ Artist)"}
+      - {
+          label: "Grammar Type",
+          name: "grammar_type",
+          widget: "select",
+          options: [
+            "Parts of Speech",
+            "Sentence Structure",
+            "Tenses",
+            "Subject-Verb Agreement",
+            "Modal Verbs",
+            "Active vs Passive Voice",
+            "Direct and Indirect Speech",
+            "Other"
+          ]
+        }
+      - {
+          label: "Meme Image",
+          name: "meme_image",
+          widget: "image",
+          required: false
+        }
+      - {
+          label: "Meme Type",
+          name: "meme_type",
+          widget: "select",
+          options: ["social media", "mass media", "other media"],
+          required: false
+        }
+      - {
+          label: "Body",
+          name: "body",
+          widget: "markdown",
+          default: "# Grammar Topic Title"
+        }
