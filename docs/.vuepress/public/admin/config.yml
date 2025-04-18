@@ -20,27 +20,27 @@ collections:
       depth: 2
     create: true
     slug: "{{date}}/index"
-    summary: "{{dirname}} . Last updated at {{commit_date}}"
+    summary: "{{filename}}. Last updated at {{commit_date}}"
     preview_path: grammar/{{date}}
     fields:
       - {
           label: "Last Updated",
           name: "lastUpdated",
           widget: "hidden",
-          default: true
+          default: true,
         }
       - {
           label: "Show Contributors",
           hint: "Show contributors at the footer",
           name: "contributors",
           widget: "boolean",
-          default: true
+          default: true,
         }
       - {
           label: "Show Icon for External Links",
           name: "externalLinkIcon",
           widget: "boolean",
-          default: false
+          default: false,
         }
       - label: "Entry Date"
         name: "date"
@@ -52,33 +52,34 @@ collections:
           label: "Grammar Type",
           name: "grammar_type",
           widget: "select",
-          options: [
-            "Parts of Speech",
-            "Sentence Structure",
-            "Tenses",
-            "Subject-Verb Agreement",
-            "Modal Verbs",
-            "Active vs Passive Voice",
-            "Direct and Indirect Speech",
-            "Other"
-          ]
+          options:
+            [
+              "Parts of Speech",
+              "Sentence Structure",
+              "Tenses",
+              "Subject-Verb Agreement",
+              "Modal Verbs",
+              "Active vs Passive Voice",
+              "Direct and Indirect Speech",
+              "Other",
+            ],
         }
       - {
           label: "Meme Image",
           name: "meme_image",
           widget: "image",
-          required: false
+          required: false,
         }
       - {
           label: "Meme Type",
           name: "meme_type",
           widget: "select",
           options: ["social media", "mass media", "other media"],
-          required: false
+          required: false,
         }
       - {
           label: "Body",
           name: "body",
           widget: "markdown",
-          default: "# Grammar Topic Title"
+          default: "# Grammar Topic Title",
         }
