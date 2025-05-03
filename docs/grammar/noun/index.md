@@ -23,6 +23,8 @@ In following the English grammatical rules, the first letter of a proper noun mu
 
 - - -
 
+
+
 ![](/media/nouns.jpg)
 
 **Contributor: Q﻿uickmeme**
@@ -37,6 +39,8 @@ While nouns are traditionally naming words (for people, places, things, etc.), t
 
 - - -
 
+
+
 ![](https://i.pinimg.com/736x/56/71/d9/5671d9a3bae1c8c727e31e861de167a8.jpg)
 
 **Contributor: P﻿interest**
@@ -49,6 +53,8 @@ A noun is a word that identifies a person, place, thing, or idea—in this case,
 
 - - -
 
+
+
 ![](/media/screenshot-2025-05-04-6.28.41-am.png)
 
 **Contributor: Jeff**
@@ -60,6 +66,8 @@ A proper noun is the specific name of a person, place, or thing and is always ca
 For example, in the phrase “Ethel is a cat,” the word Ethel is a proper noun because it is the unique name of a particular cat. It refers to one specific individual, just like how "London" refers to a specific city or "Sarah" to a specific person. On the other hand, the word cat is a common noun because it refers to a general type of animal rather than a specific one. While there are many cats, Ethel is the name of one particular cat.
 
 - - -
+
+
 
 ![](https://media.makeameme.org/created/capitalize-a-common.jpg)
 
