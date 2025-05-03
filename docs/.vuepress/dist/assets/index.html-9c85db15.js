@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7c495bb2","path":"/grammar/prepositions/","title":"📍 Prepositions","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"🧭 Common Types:","slug":"🧭-common-types","link":"#🧭-common-types","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"grammar/prepositions/index.md"}');export{e as data};

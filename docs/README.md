@@ -10,6 +10,7 @@ actions:
     type: primary
 ---
 
+<FeaturesList />
 <div class="center">
 <!-- <div class="spaced">
   This template is built on VuePress, allow access and editing via DecapCMS, and is hosted on Netlify. <br><b>"Songs?"</b> you wonder... <a href="https://md.engineer/" target="_blank">The author</a> uses <a href="/songs/">songs</a> (as an example of content)
