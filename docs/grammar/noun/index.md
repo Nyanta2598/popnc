@@ -17,6 +17,8 @@ Nouns are *words that name a person, place, thing, or idea*. They are a fundam
 
 **S﻿ource: <https://memebase.cheezburger.com/tag/homework/page/3>**
 
+**Category:** Social Media
+
 > In following the English grammatical rules, the first letter of a proper noun must be capitalized. In this meme, Karl Marx is the proponent of the Marxist philosophy — a philosophy that believes that capitalism (an economic and political system wherein a selected few control the resources and power) is bad and exploitative.
 
 - - -
