@@ -5,9 +5,9 @@ contributors: false
 externalLinkIcon: false
 date: 2025-05-03
 ---
-# 🏃🏿‍♂️ Noun
+# 🧍 Noun
 
-Nouns are *words that name a person, place, thing, or idea*. They are a fundamental part of speech in English, and they can function as the subject, object, or complement within a sentence. Nouns can be categorized into various types, including common nouns, proper nouns, concrete nouns, abstract nouns, and collective nouns. 
+Nouns are *words that name a person, place, thing, or idea*. They are a fundamental part of speech in English, and they can function as the subject, object, or complement within a sentence.
 
 - - -
 
