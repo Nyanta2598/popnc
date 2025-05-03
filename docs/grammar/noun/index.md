@@ -47,7 +47,7 @@ Nouns are *words that name a person, place, thing, or idea*. They are a fundam
 
 - - -
 
-![]()
+![](/media/screenshot-2025-05-04-6.28.41-am.png)
 
 **Contributor: Jeff**
 
