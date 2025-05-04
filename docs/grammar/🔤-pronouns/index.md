@@ -13,7 +13,7 @@ Pronouns are *words that replace nouns to avoid repetition*. They function as a
 
 ## "﻿Recitation 100/100"
 
-![](https://www.rd.com/wp-content/uploads/2021/08/Teacher-Can-you-tell-me-two-pronouns-Student-Who-me.jpg?fit=700,700)
+![](/media/teacher-can-you-tell-me-two-pronouns-student-who-me.jpg)
 
 👥 **Contributor: Getty Images**
 
@@ -23,4 +23,7 @@ Pronouns are *words that replace nouns to avoid repetition*. They function as a
 
 In this meme, the teacher asks for examples of pronouns. Upon calling the student, they answer if it is them that the teacher is calling upon, unexpectedly providing what the teacher is asking for.
 
-E﻿xamples:
+> E﻿xamples:
+> `he`, `she`, `it`, `they`, `who, me, them`
+
+- - -
