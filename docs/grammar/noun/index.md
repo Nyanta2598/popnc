@@ -27,7 +27,7 @@ In following the English grammatical rules, the first letter of a proper noun mu
 
 ## "How flexible!"
 
-![](/media/nouns.jpg)
+![](/media/nouns2.jpg)
 
 👥 **Contributor: Q﻿uickmeme**
 
@@ -160,7 +160,7 @@ The image above is a meme showing two panels that contrast the use of the word �
 
 - - -
 
-## "﻿Makes you wonder, huh?"
+## "Makes you wonder huh?"
 
 ![](/media/screenshot-2025-05-04-9.36.25-am.png)
 
