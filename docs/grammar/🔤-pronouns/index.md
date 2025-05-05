@@ -28,7 +28,7 @@ In this meme, the teacher asks for examples of pronouns. Upon calling the studen
 
 - - -
 
-## 🦎 Pascal? Is that you?
+## 🦎 Pascal? 
 
 ![](/media/pronoun.jpg)
 
@@ -74,7 +74,7 @@ The humor comes from the fact that many people mix up "who" and "whom." "Whom" i
 
 - - -
 
-## 🎶 
+## 🎶 Inclusive song
 
 ![](/media/screenshot-2025-05-04-4.53.25-pm.png)
 
@@ -90,7 +90,7 @@ For example, the movement showcased in the photo may advocate for using gender-i
 
 - - -
 
-## I﻿nclusivity for da win
+## 🤸 Respect individuals!
 
 ![](/media/pronoun-meme-300x300.jpg)
 
@@ -101,3 +101,80 @@ For example, the movement showcased in the photo may advocate for using gender-i
 💻 **Category:** Social Media
 
 Traditionally considered plural, “they” is increasingly accepted as a gender-neutral singular option, promoting inclusivity by avoiding assumptions about someone’s gender. While some may still adhere to traditional grammar rules, the meme playfully suggests that using “they” singularly is a conscious choice to be more inclusive and respectful of individuals who don’t identify within the traditional binary gender system. This reflects a shift in language reflecting societal changes in understanding and acceptance of gender identity.
+
+- - -
+
+## 🏟️ They're all pro-nouns
+
+![](https://i.pinimg.com/736x/c5/dd/38/c5dd3847f89acd98c10e395fcc91d737.jpg)
+
+👥 **Contributor: Heather Miller**
+
+🌐 **S﻿ource: <https://ph.pinterest.com/pin/28006828909917629/>**
+
+💻 **Category:** Mass Media
+
+This comic shows a frustrated coach yelling at his team, saying, “You’re playing like a bunch of amateur nouns!”—while all the players have pronouns like YOU, HE, HIM, IT on their jerseys.
+
+The humor comes from mixing grammatical terms: pronouns (words that replace nouns) are being called “amateur nouns,” as if they're failing to live up to the level of full nouns. It plays on the idea that pronouns are “substitute” players for nouns—fitting for a sports team metaphor.
+
+- - -
+
+## 👩‍🦰 Identifier
+
+![](https://scontent.fmnl16-1.fna.fbcdn.net/v/t39.30808-6/476288578_1171785444615553_6439962379532699345_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGe9Ja8nEDIVKDDJcLuwztx5e88nvcCdVbl7zye9wJ1VrjWdc5t8Rds1xqfpB4T8cr2zH8INmVK64XK5DFgCWcf&_nc_ohc=It0GJLmcZI8Q7kNvwG-VAXk&_nc_oc=Adnu8aKU6he8cbbIfOhMtlyKU_DPUy7IMpZRbN6lIe1dn1xhQk5ljr0Wmg_R4lqQPlk&_nc_zt=23&_nc_ht=scontent.fmnl16-1.fna&_nc_gid=sVAFYyIYPsEKYdzIjp2zaQ&oh=00_AfFu7Jrjkw07L5128JMOCH7b8TEWLijbDWcTN0eCRRyoNw&oe=681E90D2)
+
+👥 **Contributor: Philstar Life**
+
+🌐 **S﻿ource: <https://philstarlife.com/celebrity/616287-vice-ganda-on-preferred-pronouns-honorifics?utm_source=PhilSTARLife&utm_medium=Facebook&utm_campaign=artcard>**
+
+💻 **Category:** Social Media
+
+Pronouns are not just a part of grammatical rules, but it is also a part of identities that describe how we portray and identify ourselves to the world.
+
+- - -
+
+## 🐉 Rawr
+
+![](https://scontent.fmnl16-1.fna.fbcdn.net/v/t39.30808-6/489892529_1083239503848211_123871107389228587_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEoSjjUt8x9XUAhFiITy0Pw-vR2MPgBV0b69HYw-AFXRqjhX7Ndug1yQeMtdMwqryfyUjKD4lxRDp9nEVwo_nz1&_nc_ohc=WQWNNCJJmh4Q7kNvwHY8iNS&_nc_oc=Adk5CBNv0Jr7WB8_QDJiD6WT7SUsyitQxQHTrNfR8Yl3tHkGMS4KaM2Z8aFdITz6euc&_nc_zt=23&_nc_ht=scontent.fmnl16-1.fna&_nc_gid=94DGR8IHjq_GSA9oTzkWnQ&oh=00_AfEujmuJLHq23jNdJ60jImRPKWZRmZsFFritXaSJqRZc8Q&oe=681EBC0D)
+
+👥 **Contributor: Game of Thrones (Season 3, Episode 3)**
+
+🌐 **S﻿ource: <https://www.facebook.com/BestofGameofThrones/posts/happy-international-womens-day/1058637546308407/>****[artcard](https://philstarlife.com/celebrity/616287-vice-ganda-on-preferred-pronouns-honorifics?utm_source=PhilSTARLife&utm_medium=Facebook&utm_campaign=artcard)**
+
+💻 **Category:** Other Media
+
+Awareness of proper pronoun usage not only enables people to be correct, but also provides nuance in statements made.
+
+- - -
+
+## 💒 We(dding)
+
+![](/media/pronouns.jpeg)
+
+👥 **Contributor: Dan Piraro**
+
+🌐 **S﻿ource: <https://ph.pinterest.com/pin/14355292547208032/>**
+
+💻 **Category: Mass Media**
+
+A play on words with a grammatical twist—the classic wedding phrase, "I now pronounce you husband and wife," is humorously transformed into "I now pronouns you he and she." This clever pun showcases how English majors might blend their love for language with love itself, turning grammar into part of the ceremony.
+
+- - -
+
+## 🌌 How Grand(e)
+
+![](/media/screenshot-2025-05-06-12.26.21-am.png)
+
+👥 **Contributor: Ericka**
+
+🌐 **S﻿ource: <https://genius.com/Ariana-grande-we-cant-be-friends-wait-for-your-love-lyrics>**
+
+💻 **Category: Other Media**
+
+In Ariana Grande’s song “We can’t be friends”, personal pronouns are effectively used. In these specific lines, you can see four personal pronouns: we, I, you, and me. 
+
+* “We” is a first-person plural pronoun. It’s used to refer to the speaker and one or more other people. It implies inclusion and a shared experience. 
+* “You” is a second-person pronoun. It refers to the person or people being addressed. It can be singular or plural. 
+* “I” is a first-person singular pronoun. It’s used to refer to the speaker.
+* “Me” is a first-person singular objective pronoun. It’s used as the object of a verb or preposition. It receives the action of the verb or is the recipient of the preposition’s action.
