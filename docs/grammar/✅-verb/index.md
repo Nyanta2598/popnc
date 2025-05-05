@@ -138,10 +138,4 @@ The meme humorously depicts a scenario where someone asks what a verb is. Anothe
 In Taylor Swift’s “All Too Well” , various tenses of verbs are present:
 
 * Singing – this is the present progressive tense of the verb sing. This shows that the characters in the song is doing the action. 
-
-<!---->
-
 * Picture – this is in present tense, showing how the character is able to see or vividly recall what they have done in the past.
-*
-*
-*
