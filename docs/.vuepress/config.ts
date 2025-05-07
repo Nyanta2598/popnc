@@ -4,12 +4,14 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import { getDirname, path } from "@vuepress/utils";
 import { glob } from "glob";
 
+const sortOrder = ["disclaimer", "noun", "pronouns", "verb"];
+
 let grammarList = glob
-.sync("docs/grammar/**/index.md", { ignore: ["docs/grammar/index.md"] })
-  .map((f) => {
-    const folder = path.basename(path.dirname(f));
-    return `/grammar/${folder}/`;
-  });
+  .sync("docs/grammar/**/index.md", { ignore: ["docs/grammar/index.md"] })
+  .map((f) => path.basename(path.dirname(f)))
+  .filter((folder) => sortOrder.includes(folder))
+  .sort((a, b) => sortOrder.indexOf(a) - sortOrder.indexOf(b))
+  .map((folder) => `/grammar/${folder}/`);
 
 
 import { description } from "../../package.json";
