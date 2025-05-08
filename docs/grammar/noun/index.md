@@ -45,11 +45,11 @@ While nouns are traditionally naming words (for people, places, things, etc.), t
 
 ![](https://i.pinimg.com/736x/56/71/d9/5671d9a3bae1c8c727e31e861de167a8.jpg)
 
-👥 Creator**: P﻿interest**
+👥 Creator: **P﻿interest**
 
-🌐 S﻿ource**:** [https://ph.pinterest.com/pin/53269208088893594/](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
+🌐 S﻿ource: [https://ph.pinterest.com/pin/53269208088893594/](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
-💻 Category**:** **Social Media**
+💻 Category: **Social Media**
 
 A noun is a word that identifies a person, place, thing, or idea—in this case, the fruit (e.g., apple, banana, mango, and orange).
 
@@ -59,9 +59,9 @@ A noun is a word that identifies a person, place, thing, or idea—in this case,
 
 ![](/media/screenshot-2025-05-04-6.28.41-am.png)
 
-👥 Creator**: Jeff**
+👥 Creator: **Jeff**
 
-💻 Category**: Social Media**
+💻 Category: **Social Media**
 
 A proper noun is the specific name of a person, place, or thing and is always capitalized, while a common noun is a general term that refers to a class or category of people, places, or things and is not capitalized unless it begins a sentence. 
 
@@ -73,11 +73,11 @@ For example, in the phrase “Ethel is a cat,” the word Ethel is a proper noun
 
 ![](https://media.makeameme.org/created/capitalize-a-common.jpg)
 
-👥 Creator**: Make a meme**
+👥 Creator: **Make a meme**
 
-🌐 S﻿ource**: <https://makeameme.org/meme/capitalize-a-common>**
+🌐 S﻿ource: <https://makeameme.org/meme/capitalize-a-common>
 
-💻 Category**: Social Media**
+💻 Category: **Social Media**
 
 This meme uses an image of *Chuck Norris*, known for his action-movie roles, to make a humorous point about grammar.
 
@@ -91,11 +91,11 @@ The top text says, “CAPITALIZE A COMMON NOUN,” while the bottom text says, �
 
 ![](https://scontent.fmnl16-1.fna.fbcdn.net/v/t39.30808-6/493687479_1149450527226603_3966984034889740409_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE8x6EoXNzZnQQ-mvEQ9Y3wGm6YQmyh20cabphCbKHbR5hQmL7GzXvI0pq74pAZQtMobiiKB1aJs1T9i-9Ve7lk&_nc_ohc=CV7mVALrM2sQ7kNvwFMiw-C&_nc_oc=Adm-OY56-o05tstC8Bph-dWKicm0NBACB1L6SlYh99ueJG3P7EVsTtyd6fAml972Vhw&_nc_zt=23&_nc_ht=scontent.fmnl16-1.fna&_nc_gid=LIpxu9h1ScBfh0ehucgtkA&oh=00_AfG9Nz79B1kZUjnRqZO8Yr1vZo8H5ovdLlAJP08dv3z0nA&oe=681CA53C)
 
-👥 Creator**: GMA News**
+👥 Creator: **GMA News**
 
-🌐 S﻿ource**:** [](https://www.gmanetwork.com/news/lifestyle/artandculture/940736/gigil-makes-it-to-oxford-english-dictionary/story/?fbclid=IwY2xjawJon5ZleHRuA2FlbQIxMAABHgoTpm_9noSwHa8VdkFWEryKKcLvZKM6X3lw1rSkWccTgXAwib-tDjlxU6vc_aem_5krkFvHu3gI2lVr3y_6j3Q)<https://www.gmanetwork.com/news/lifestyle/artandculture/940736/gigil-makes-it-to-oxford-english-dictionary/story/?fbclid=IwY2xjawJon5ZleHRuA2FlbQIxMAABHgoTpm_9noSwHa8VdkFWEryKKcLvZKM6X3lw1rSkWccTgXAwib-tDjlxU6vc_aem_5krkFvHu3gI2lVr3y_6j3Q>
+🌐 S﻿ource: [](https://www.gmanetwork.com/news/lifestyle/artandculture/940736/gigil-makes-it-to-oxford-english-dictionary/story/?fbclid=IwY2xjawJon5ZleHRuA2FlbQIxMAABHgoTpm_9noSwHa8VdkFWEryKKcLvZKM6X3lw1rSkWccTgXAwib-tDjlxU6vc_aem_5krkFvHu3gI2lVr3y_6j3Q)<https://www.gmanetwork.com/news/lifestyle/artandculture/940736/gigil-makes-it-to-oxford-english-dictionary/story/?fbclid=IwY2xjawJon5ZleHRuA2FlbQIxMAABHgoTpm_9noSwHa8VdkFWEryKKcLvZKM6X3lw1rSkWccTgXAwib-tDjlxU6vc_aem_5krkFvHu3gI2lVr3y_6j3Q>
 
-💻 Category**:** **Mass Media**
+💻 Category: **Mass Media**
 
 It is not often that Filipino words get recognized by the Oxford English Dictionary, but gigil was officially recognized as a loan word in the English language, which can both be a noun or an adjective depending on its usage.
 
@@ -105,11 +105,11 @@ It is not often that Filipino words get recognized by the Oxford English Diction
 
 ![](/media/nouns.jpg)
 
-👥 Creator**: Evans**
+👥 Creator: **Evans**
 
-🌐 S﻿ource**: <https://www.cartoonstock.com/cartoon?searchID=CS504057>**
+🌐 S﻿ource: <https://www.cartoonstock.com/cartoon?searchID=CS504057>
 
-💻 Category**: Mass Media**
+💻 Category: **Mass Media**
 
 This cartoon humorously depicts a teacher advising a student to avoid "verbing" nouns—turning nouns into verbs (like Google into googling). The joke lies in the irony that even the phrase “a big ask” is itself a noun being used creatively.
 
@@ -119,11 +119,11 @@ This cartoon humorously depicts a teacher advising a student to avoid "verbing" 
 
 ![](/media/noun3.jpeg)
 
-👥 Creator**: Skunkernator**
+👥 Creator: **Skunkernator**
 
-🌐 S﻿ource**: <https://www.memedroid.com/memes/detail/1465443?refGallery=tags&page=1&tag=noun>**
+🌐 S﻿ource: <https://www.memedroid.com/memes/detail/1465443?refGallery=tags&page=1&tag=noun>
 
-💻 Category**: Other Media**
+💻 Category: **Other Media**
 
 This image is a humorous scene from the TV show House M.D., where a character tells Dr. House, "I've heard your name." Dr. House wittily replies, "Most people have. It's also a noun," playing on the double meaning of "house" as both his surname and a common noun referring to a building. The joke hinges on clever wordplay and House's famously sarcastic demeanor.
 
@@ -133,11 +133,11 @@ This image is a humorous scene from the TV show House M.D., where a character te
 
 ![](/media/8kcjzh6gqgm-sd.jpg)
 
-👥 Creator**: Grammaropolis**
+👥 Creator: **Grammaropolis**
 
-🌐 S﻿ource**: <https://youtu.be/8kcJzh6gqGM?si=Vgcp3eF4SM3Ln0jE>**
+🌐 S﻿ource: <https://youtu.be/8kcJzh6gqGM?si=Vgcp3eF4SM3Ln0jE>
 
-💻 Category**: Other Media**
+💻 Category: **Other Media**
 
 Teaching and learning about nouns can sometimes be tedious, but it can be made easier if learned through songs that everyone can sing and remember, enabling retention of the definition and rules in a fun way.
 
@@ -147,11 +147,11 @@ Teaching and learning about nouns can sometimes be tedious, but it can be made e
 
 ![](https://cdn.memes.com/up/24517031586677803/i/1636662310169.jpg)
 
-👥 Creator**: rocket484529**
+👥 Creator: **rocket484529**
 
-🌐 S﻿ource**: <https://memes.com/m/skin-as-a-noun-skin-as-a-verb-5qWXpgyD74P>**
+🌐 S﻿ource: <https://memes.com/m/skin-as-a-noun-skin-as-a-verb-5qWXpgyD74P>
 
-💻 Category**: Other Media**
+💻 Category: **Other Media**
 
 The image above is a meme showing two panels that contrast the use of the word “skin” as a noun and as a verb.
 
@@ -164,10 +164,10 @@ The image above is a meme showing two panels that contrast the use of the word �
 
 ![](/media/screenshot-2025-05-04-9.36.25-am.png)
 
-👥 Creator: Ericka
+👥 Creator: **Ericka**
 
-🌐 S﻿ource**: [https://youtu.be/YJd9zc6l-_Y?si=7Mz82k4G1q1928wA](https://youtu.be/YJd9zc6l-_Y?si=7Mz82k4G1q1928wA)**
+🌐 S﻿ource: [https://youtu.be/YJd9zc6l-_Y?si=7Mz82k4G1q1928wA](https://youtu.be/YJd9zc6l-_Y?si=7Mz82k4G1q1928wA)
 
-💻 Category**: Other Media**
+💻 Catego: **Other Media**
 
 In Sabrina Carpenter’s song, “Cindy Lou Who,” the phrase “Cindy Lou Who” itself acts as a proper noun.  It functions as the name of a person, although the lyrics leave it ambiguous whether she is a real individual or a personification of the singer’s emotional state.
