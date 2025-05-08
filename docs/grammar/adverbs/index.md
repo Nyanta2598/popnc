@@ -1,5 +1,5 @@
 ---
-title: 🌀 Adverbs
+title: Adverbs
 lastUpdated: true
 contributors: true
 externalLinkIcon: false
@@ -15,7 +15,7 @@ An adverb is *a word that modifies or describes a verb, adjective, another adve
 
 ![](https://www.memecreator.org/static/images/memes/4282739.jpg)
 
-👥 Contributor: **Memecreator**
+👥 Creator: **Memecreator**
 
 🌐 S﻿ource: **<https://www.memecreator.org/meme/if-you-dont-know-how-to-use-adverbs-youre-gonna-have-a-badly-time/>**[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -31,7 +31,7 @@ In this meme, the adverb usage was incorrect, resulting in an erroneous statemen
 
 ![](http://languagelog.ldc.upenn.edu/myl/SoonishAdverbs.png)
 
-👥 Contributor: **Kelly Weinersmith and Zack Weinersmith**
+👥 Creator: **Kelly Weinersmith and Zack Weinersmith**
 
 🌐 S﻿ource: <https://languagelog.ldc.upenn.edu/nll/?p=35070>[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -45,7 +45,7 @@ The image humorously depicts the frustration of editors toward excessive adverb 
 
 ![](https://i.imgflip.com/81zs5e.jpg)
 
-👥 Contributor: **imgflip**
+👥 Creator: **imgflip**
 
 🌐 S﻿ource: <https://imgflip.com/i/81zs5e>[](https://languagelog.ldc.upenn.edu/nll/?p=35070)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -61,7 +61,7 @@ This highlights how adverbs are sometimes overlooked or confused with adjectives
 
 ![](https://i.imgflip.com/5zn64c.jpg)
 
-👥 Contributor: **Guest Author**
+👥 Creator: **Guest Author**
 
 🌐 S﻿ource: **<https://www.boredteachers.com/post/memes-for-the-classroom>**[](https://imgflip.com/i/81zs5e)[](https://languagelog.ldc.upenn.edu/nll/?p=35070)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -75,7 +75,7 @@ An adverb is a word that modifies (describes or gives more information about) a 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1pysDaMecuOrv1mSdgRJguwqcyoE-02HsCtVRbtN1SnP3JkJdp0_Nac6ZKocj7_t-Z4&usqp=CAU)
 
-👥 Contributor: **Jennifer Lane Books**
+👥 Creator: **Jennifer Lane Books**
 
 🌐 S﻿ource: <https://images.app.goo.gl/ppkRDV2576ruK3fX6>[](https://imgflip.com/i/81zs5e)[](https://languagelog.ldc.upenn.edu/nll/?p=35070)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -89,7 +89,7 @@ An adverb is a word that modifies or describes a verb, an adjective, or another 
 
 ![](/media/adverb.jpg)
 
-👥 Contributor: **Make a meme**
+👥 Creator: **Make a meme**
 
 🌐 S﻿ource: <https://makeameme.org/meme/when-you-understand-423efd54c6>[](https://images.app.goo.gl/ppkRDV2576ruK3fX6)[](https://imgflip.com/i/81zs5e)[](https://languagelog.ldc.upenn.edu/nll/?p=35070)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -103,7 +103,7 @@ The image highlights how students add excessive adverbs to their essays just to 
 
 ![](https://cdn1.byjus.com/wp-content/uploads/2023/10/adverbs-in-under-15-mins.jpg)
 
-👥 Contributor: **Ma’am Asmita**
+👥 Creator: **Ma’am Asmita**
 
 🌐 S﻿ource: [](https://makeameme.org/meme/when-you-understand-423efd54c6)<https://byjus.com/english/adverb-examples/>
 
@@ -115,7 +115,7 @@ The image highlights how students add excessive adverbs to their essays just to 
 
 ![](https://assets.ltkcontent.com/images/951262/Adverbs-Examples_1bca575750.webp)
 
-👥 Contributor: **Your Dictionary Staff**
+👥 Creator: **Your Dictionary Staff**
 
 🌐 S﻿ource: [](https://makeameme.org/meme/when-you-understand-423efd54c6)<https://www.yourdictionary.com/articles/examples-adverbs-sentences>[](https://byjus.com/english/adverb-examples/)
 
