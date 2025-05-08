@@ -4,13 +4,43 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import { getDirname, path } from "@vuepress/utils";
 import { glob } from "glob";
 
-const sortOrder = ["disclaimer", "noun", "pronouns", "verb"];
+const sortOrder = [
+  "disclaimer",
+  "noun",
+  "pronouns",
+  "verb",
+  "adjectives",
+  "adverbs",
+  "preposition",
+  "tenses",
+  "passive and active voices",
+  "period",
+  "comma",
+  "question mark",
+  "exclamation mark",
+  "hyphen and dashes",
+  "semicolon",
+  "ellipsis",
+  "parenthesis",
+  "apostrophe",
+  "subject verb agreement",
+  "modals",
+  "articles",
+  "sentence diagramming",
+  "vocabulary"
+];
 
 let grammarList = glob
   .sync("docs/grammar/**/index.md", { ignore: ["docs/grammar/index.md"] })
   .map((f) => path.basename(path.dirname(f)))
-  .filter((folder) => sortOrder.includes(folder))
-  .sort((a, b) => sortOrder.indexOf(a) - sortOrder.indexOf(b))
+  .sort((a, b) => {
+    const aIndex = sortOrder.indexOf(a);
+    const bIndex = sortOrder.indexOf(b);
+    if (aIndex === -1 && bIndex === -1) return a.localeCompare(b); // Both not in sortOrder
+    if (aIndex === -1) return 1; // a goes after b
+    if (bIndex === -1) return -1; // a goes before b
+    return aIndex - bIndex; // Both in sortOrder
+  })
   .map((folder) => `/grammar/${folder}/`);
 
 
@@ -43,16 +73,21 @@ export default defineUserConfig({
     // notFound: ["There's nothing here. If you're looking for DecapCMS, manually enter `/admin` to the root site path to navigate directly to it."],
     notFound: ["There's nothing here. "],
     navbar: [
-      // {
-      //   text: "Grammar",
-      //   // notice the trailing / (for the automatic next and prev links based on the sidebar)
-      //   link: "/grammar/",
-      // },
-      // {
-      //   text: "Grammar",
-      //   // notice the trailing / (for the automatic next and prev links based on the sidebar)
-      //   link: "/songs/",
-      // },
+      {
+        text: "Grammar",
+        children: grammarList.map((link) => {
+          const name = link.split("/").filter(Boolean).pop();
+          return {
+            text: name.charAt(0).toUpperCase() + name.slice(1), 
+            link,
+          };
+        }),
+      },
+      {
+        text: "About Us",
+        link: "/about/",
+      },
+
       // {
       //   text: "Using this template",
       //   link: "/template/",
