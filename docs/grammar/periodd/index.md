@@ -1,5 +1,5 @@
 ---
-title: Periodd
+title: Period
 lastUpdated: true
 contributors: true
 externalLinkIcon: false
