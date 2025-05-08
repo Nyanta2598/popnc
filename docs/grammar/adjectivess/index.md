@@ -1,5 +1,5 @@
 ---
-title: Adjectivess
+title: Adjectives
 lastUpdated: true
 contributors: true
 externalLinkIcon: false
