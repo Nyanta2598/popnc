@@ -15,11 +15,11 @@ Pronouns are *words that replace nouns to avoid repetition*. They function as a
 
 ![](/media/teacher-can-you-tell-me-two-pronouns-student-who-me.jpg)
 
-👥 Creator**: Getty Images**
+👥 Creator: **Getty Images**
 
-🌐 S﻿ource**: <https://www.rd.com/list/grammar-memes/>**
+🌐 S﻿ource: <https://www.rd.com/list/grammar-memes/
 
-💻 Category**:** **Social Media**
+💻 Category: **Social Media**
 
 In this meme, the teacher asks for examples of pronouns. Upon calling the student, they answer if it is them that the teacher is calling upon, unexpectedly providing what the teacher is asking for.
 
@@ -32,9 +32,9 @@ In this meme, the teacher asks for examples of pronouns. Upon calling the studen
 
 ![](/media/pronoun.jpg)
 
-👥 Creator**: QueeerChameleon**
+👥 Creator: **QueeerChameleon**
 
-🌐 S﻿ource**:** <https://www.facebook.com/photo/?fbid=479893534918342&set=a.110529468521419>
+🌐 S﻿ource: <https://www.facebook.com/photo/?fbid=479893534918342&set=a.110529468521419>
 
 💻 Category**:** **Social Media**
 
@@ -48,11 +48,11 @@ There is a wide misconception that the usage of “they/them” is strictly used
 
 ![](https://uploads.dailydot.com/2024/11/pronouns-in-bio-meme.jpg?q=65&auto=format&w=1200&ar=2:1&fit=crop)
 
-👥 Creator**: The Daily Dot**
+👥 Creator: **The Daily Dot**
 
-🌐 S﻿ource**:** **<https://images.app.goo.gl/GFqoAmQrN7e8sXcx6>**[](https://www.facebook.com/photo/?fbid=479893534918342&set=a.110529468521419)
+🌐 S﻿ource: <https://images.app.goo.gl/GFqoAmQrN7e8sXcx6>[](https://www.facebook.com/photo/?fbid=479893534918342&set=a.110529468521419)
 
-💻 Category**:** **Social Media**
+💻 Category: **Social Media**
 
 The "Pronouns in Bio" meme originates from the practice of including one's pronouns (like he/him, she/her, they/them) in social media bios. This began as a way to promote inclusivity and normalize sharing pronouns, especially to support nonbinary and transgender individuals.
 
@@ -82,7 +82,7 @@ The humor comes from the fact that many people mix up "who" and "whom." "Whom" i
 
 🌐 S﻿ource**: <https://www.instagram.com/chicagotaptheatre/reel/C8arB2BPUfh/>**[](https://www.facebook.com/photo/?fbid=479893534918342&set=a.110529468521419)
 
-💻 Category**:** **Other Media**
+💻 Category: Other Media
 
 The photo connects to pronouns through its focus on inclusion and diversity, as highlighted by the "Queer Tap Dance Revolution" featured in the news segment. Pronouns often play a pivotal role in fostering inclusivity, especially in contexts involving gender and identity. 
 
@@ -94,11 +94,11 @@ For example, the movement showcased in the photo may advocate for using gender-i
 
 ![](/media/pronoun-meme-300x300.jpg)
 
-👥 Creator**: ELGL**
+👥 Creator: **ELGL**
 
-🌐 S﻿ource**: <https://elgl.org/the-power-of-asking/>**
+🌐 S﻿ource: <https://elgl.org/the-power-of-asking/>
 
-💻 Category**:** **Social Media**
+💻 Category: **Social Media**
 
 Traditionally considered plural, “they” is increasingly accepted as a gender-neutral singular option, promoting inclusivity by avoiding assumptions about someone’s gender. While some may still adhere to traditional grammar rules, the meme playfully suggests that using “they” singularly is a conscious choice to be more inclusive and respectful of individuals who don’t identify within the traditional binary gender system. This reflects a shift in language reflecting societal changes in understanding and acceptance of gender identity.
 
@@ -108,11 +108,11 @@ Traditionally considered plural, “they” is increasingly accepted as a gender
 
 ![](https://i.pinimg.com/736x/c5/dd/38/c5dd3847f89acd98c10e395fcc91d737.jpg)
 
-👥 Creator**: Heather Miller**
+👥 Creator: **Heather Miller**
 
-🌐 S﻿ource**: <https://ph.pinterest.com/pin/28006828909917629/>**
+🌐 S﻿ource: <https://ph.pinterest.com/pin/28006828909917629/>
 
-💻 Category**:** **Mass Media**
+💻 Category: **Mass Media**
 
 This comic shows a frustrated coach yelling at his team, saying, “You’re playing like a bunch of amateur nouns!”—while all the players have pronouns like YOU, HE, HIM, IT on their jerseys.
 
@@ -124,11 +124,11 @@ The humor comes from mixing grammatical terms: pronouns (words that replace noun
 
 ![](https://scontent.fmnl16-1.fna.fbcdn.net/v/t39.30808-6/476288578_1171785444615553_6439962379532699345_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGe9Ja8nEDIVKDDJcLuwztx5e88nvcCdVbl7zye9wJ1VrjWdc5t8Rds1xqfpB4T8cr2zH8INmVK64XK5DFgCWcf&_nc_ohc=It0GJLmcZI8Q7kNvwG-VAXk&_nc_oc=Adnu8aKU6he8cbbIfOhMtlyKU_DPUy7IMpZRbN6lIe1dn1xhQk5ljr0Wmg_R4lqQPlk&_nc_zt=23&_nc_ht=scontent.fmnl16-1.fna&_nc_gid=sVAFYyIYPsEKYdzIjp2zaQ&oh=00_AfFu7Jrjkw07L5128JMOCH7b8TEWLijbDWcTN0eCRRyoNw&oe=681E90D2)
 
-👥 Creator**: Philstar Life**
+👥 Creator: **Philstar Life**
 
-🌐 S﻿ource**: <https://philstarlife.com/celebrity/616287-vice-ganda-on-preferred-pronouns-honorifics?utm_source=PhilSTARLife&utm_medium=Facebook&utm_campaign=artcard>**
+🌐 S﻿ource: <https://philstarlife.com/celebrity/616287-vice-ganda-on-preferred-pronouns-honorifics?utm_source=PhilSTARLife&utm_medium=Facebook&utm_campaign=artcard>
 
-💻 Category**:** **Social Media**
+💻 Category: **Social Media**
 
 Pronouns are not just a part of grammatical rules, but it is also a part of identities that describe how we portray and identify ourselves to the world.
 
@@ -138,11 +138,11 @@ Pronouns are not just a part of grammatical rules, but it is also a part of iden
 
 ![](/media/pronouns.jpeg)
 
-👥 Creator**: Dan Piraro**
+👥 Creat: **Dan Piraro**
 
-🌐 S﻿ource**: <https://ph.pinterest.com/pin/14355292547208032/>**
+🌐 S﻿ource: <https://ph.pinterest.com/pin/14355292547208032/>
 
-💻 Category**: Mass Media**
+💻 Category: **Mass Media**
 
 A play on words with a grammatical twist—the classic wedding phrase, "I now pronounce you husband and wife," is humorously transformed into "I now pronouns you he and she." This clever pun showcases how English majors might blend their love for language with love itself, turning grammar into part of the ceremony.
 
@@ -152,11 +152,11 @@ A play on words with a grammatical twist—the classic wedding phrase, "I now pr
 
 ![](/media/screenshot-2025-05-06-12.26.21-am.png)
 
-👥 Creator**: Ericka**
+👥 Creator: **Ericka**
 
-🌐 S﻿ource**: <https://genius.com/Ariana-grande-we-cant-be-friends-wait-for-your-love-lyrics>**
+🌐 S﻿ource: <https://genius.com/Ariana-grande-we-cant-be-friends-wait-for-your-love-lyrics>
 
-💻 Category**: Other Media**
+💻 Category: **Other Media**
 
 In Ariana Grande’s song “We can’t be friends”, personal pronouns are effectively used. In these specific lines, you can see four personal pronouns: we, I, you, and me. 
 
