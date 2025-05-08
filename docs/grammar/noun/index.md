@@ -15,11 +15,11 @@ Nouns are *words that name a person, place, thing, or idea*. They are a fundam
 
 ![](https://i.chzbgr.com/full/9253347072/h7F607006/reads-english-teacher-explaining-proper-nouns-dont-forget-to-capitalize-above-a-pic-of-karl-marx)
 
-👥 Creator**: Meeeeesh**
+👥 Creator: **Meeeeesh**
 
-🌐 S﻿ource**: <https://memebase.cheezburger.com/tag/homework/page/3>**
+🌐 S﻿ource: <https://memebase.cheezburger.com/tag/homework/page/3>
 
-💻 Category**:** **Social Media**
+💻 Category: **Social Media**
 
 In following the English grammatical rules, the first letter of a proper noun must be capitalized. In this meme, Karl Marx is the proponent of the Marxist philosophy — a philosophy that believes that capitalism (an economic and political system wherein a selected few control the resources and power) is bad and exploitative.
 
@@ -31,7 +31,7 @@ In following the English grammatical rules, the first letter of a proper noun mu
 
 👥 Creator: **Q﻿uickmeme**
 
-🌐 S﻿ource**: <http://www.quickmeme.com/meme/3usdrd>**
+🌐 S﻿ource: <http://www.quickmeme.com/meme/3usdrd>
 
 💻 Category: **Social Media**
 
@@ -93,9 +93,9 @@ The top text says, “CAPITALIZE A COMMON NOUN,” while the bottom text says, �
 
 👥 Creator**: GMA News**
 
-🌐 S﻿ource**:** [](https://www.gmanetwork.com/news/lifestyle/artandculture/940736/gigil-makes-it-to-oxford-english-dictionary/story/?fbclid=IwY2xjawJon5ZleHRuA2FlbQIxMAABHgoTpm_9noSwHa8VdkFWEryKKcLvZKM6X3lw1rSkWccTgXAwib-tDjlxU6vc_aem_5krkFvHu3gI2lVr3y_6j3Q)**\*\***<https://www.gmanetwork.com/news/lifestyle/artandculture/940736/gigil-makes-it-to-oxford-english-dictionary/story/?fbclid=IwY2xjawJon5ZleHRuA2FlbQIxMAABHgoTpm_9noSwHa8VdkFWEryKKcLvZKM6X3lw1rSkWccTgXAwib-tDjlxU6vc_aem_5krkFvHu3gI2lVr3y_6j3Q>\*\*
+🌐 S﻿ource**:** [](https://www.gmanetwork.com/news/lifestyle/artandculture/940736/gigil-makes-it-to-oxford-english-dictionary/story/?fbclid=IwY2xjawJon5ZleHRuA2FlbQIxMAABHgoTpm_9noSwHa8VdkFWEryKKcLvZKM6X3lw1rSkWccTgXAwib-tDjlxU6vc_aem_5krkFvHu3gI2lVr3y_6j3Q)<https://www.gmanetwork.com/news/lifestyle/artandculture/940736/gigil-makes-it-to-oxford-english-dictionary/story/?fbclid=IwY2xjawJon5ZleHRuA2FlbQIxMAABHgoTpm_9noSwHa8VdkFWEryKKcLvZKM6X3lw1rSkWccTgXAwib-tDjlxU6vc_aem_5krkFvHu3gI2lVr3y_6j3Q>
 
-💻 Category**:** Mass Media
+💻 Category**:** **Mass Media**
 
 It is not often that Filipino words get recognized by the Oxford English Dictionary, but gigil was officially recognized as a loan word in the English language, which can both be a noun or an adjective depending on its usage.
 
@@ -164,7 +164,7 @@ The image above is a meme showing two panels that contrast the use of the word �
 
 ![](/media/screenshot-2025-05-04-9.36.25-am.png)
 
-👥 Creator**: Ericka**
+👥 Creator: Ericka
 
 🌐 S﻿ource**: [https://youtu.be/YJd9zc6l-_Y?si=7Mz82k4G1q1928wA](https://youtu.be/YJd9zc6l-_Y?si=7Mz82k4G1q1928wA)**
 
