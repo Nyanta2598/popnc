@@ -4,10 +4,10 @@ title: Vuepress-Decap-Netlify
 tagline: PoPnC is a grammar learning platform that fuses the energy of pop culture with the structure of language. By using iconic movie lines, trending song lyrics, viral memes, and social media moments, PoPnC turns traditional grammar instruction into a relatable experience.  With PoPnC, learning grammar becomes easier because it speaks the language of today's generation—where pop meets proficiency.
 heroText:
 heroImage: popnc.png
-actions:
-  - text: Read More
-    link: /grammar
-    type: primary
+# actions:
+#   - text: Read More
+#     link: /grammar
+#     type: primary
 ---
 
 <FeaturesList />

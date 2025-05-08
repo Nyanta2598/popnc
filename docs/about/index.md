@@ -26,11 +26,11 @@ We aim to support students, educators, and lifelong learners with resources that
 
 PoPNC is made possible by the dedication of our team:
 
+- **Mark Andrew O. Asaytuno**
 - **Jeferson D. Cativo**
 - **Jesse M. Esteves**
 - **Aileen Mae A. Gravino**
 - **Ericka Vernice G. Hercia**
-- **Mark Andrew O. Asaytuno**
 
 ## Contact Us
 
