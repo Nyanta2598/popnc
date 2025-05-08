@@ -1,5 +1,5 @@
 ---
-title: 🧭 Prepositions
+title: Prepositions
 lastUpdated: true
 contributors: true
 externalLinkIcon: false
@@ -15,7 +15,7 @@ Prepositions are *words that connect nouns, pronouns, or phrases to other words
 
 ![](https://blog.writeathome.com/wp-content/uploads/2013/10/airplane.jpg)
 
-👥 Contributor: **blog.WriteAtHome.com**
+👥 Creator: **blog.WriteAtHome.com**
 
 🌐 S﻿ource: <https://blog.writeathome.com/index.php/2013/10/crazy-english-memes/>[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -31,7 +31,7 @@ In this meme, knowledge of preposition empowers a person to be aware of what is 
 
 ![](https://i.pinimg.com/736x/40/fc/92/40fc9282114b71522bf8e11ec5f0bc54.jpg)
 
-👥 Contributor: **John Atkinson**
+👥 Creator: **John Atkinson**
 
 🌐 S﻿ource: **<https://pin.it/1agqpiAqH>**[](https://blog.writeathome.com/index.php/2013/10/crazy-english-memes/)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -45,7 +45,7 @@ The image humorously depicts the word “here” walking toward the letter “t,
 
 ![](/media/preposition.jpg)
 
-👥 Contributor: **Dani Piraro**
+👥 Creator: **Dani Piraro**
 
 🌐 S﻿ource: <https://www.facebook.com/photo.php?fbid=1473842162725081&id=290072384435404&set=a.294173680691941>[](https://blog.writeathome.com/index.php/2013/10/crazy-english-memes/)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -61,7 +61,7 @@ The bar setting enhances the joke, as it's a common place for social interaction
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvTsZQdmjQuLpDQeiAFK3jXnw8FyTSaZp-a3_RBsw6YHcvC5nVcDAS0PIPySMFPuauQNo&usqp=CAU)
 
-👥 Contributor: **Wright English**
+👥 Creator: **Wright English**
 
 🌐 S﻿ource: <https://images.app.goo.gl/bHhfBGhRbN4PZTvK8>[](https://www.facebook.com/photo.php?fbid=1473842162725081&id=290072384435404&set=a.294173680691941)[](https://blog.writeathome.com/index.php/2013/10/crazy-english-memes/)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -75,7 +75,7 @@ A preposition is a word that links nouns, pronouns, or phrases to other parts of
 
 ![](https://media.makeameme.org/created/me-when-i-6a0adc6c64.jpg)
 
-👥 Contributor: **Make a meme**
+👥 Creator: **Make a meme**
 
 🌐 S﻿ource: **<https://makeameme.org/meme/me-when-i-6a0adc6c64>**[](https://images.app.goo.gl/bHhfBGhRbN4PZTvK8)[](https://www.facebook.com/photo.php?fbid=1473842162725081&id=290072384435404&set=a.294173680691941)[](https://blog.writeathome.com/index.php/2013/10/crazy-english-memes/)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
@@ -95,7 +95,7 @@ Prepositions often depend on context, making them tricky to master. For example,
 
 ![](https://boggletondrive.com/wp-content/uploads/2011/08/prepositiondouche.jpg)
 
-👥 Contributor: **Boggleton Drive**
+👥 Creator: **Boggleton Drive**
 
 🌐 S﻿ource: <https://boggletondrive.com/2011/08/20/ending-sentences-with-prepositions/>[](https://images.app.goo.gl/bHhfBGhRbN4PZTvK8)[](https://www.facebook.com/photo.php?fbid=1473842162725081&id=290072384435404&set=a.294173680691941)[](https://blog.writeathome.com/index.php/2013/10/crazy-english-memes/)[](https://ph.pinterest.com/pin/53269208088893594/?fbclid=IwZXh0bgNhZW0CMTAAAR4wBDzby36dVIYdMTY3-gugbj6_EvLQOEcD_7Pi8d5k8QMnQWmfDb60_ude6A_aem_0FDlQWuLfHDNBeVSQpyFVw)
 
